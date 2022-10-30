@@ -9,6 +9,8 @@ krishanktg/krishanktg is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+#Max remainder from a list
+
 l=[2,3,3,5,9]
 r=[]
 n=7
