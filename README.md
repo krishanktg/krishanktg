@@ -1,31 +1,22 @@
-- 👋 Hi, I’m @krishanktg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Krishan Kumar 👋
 
-<!---
-krishanktg/krishanktg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! 🚀
 
-#Max remainder from a list
+## About Me
+- 🎓 B.Tech From NIT Rourkela
+- 💼 Currently looking for an opportunity in Analytics
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/krishanktg/)
+- ✉️ Contact me at [krishanktg@gmail.com]
 
-l=[2,3,3,5,9]
-r=[]
-n=7
-for i in l:
-    r.append(i%n)
-for i in range(4):
-    r.append((l[i]+l[(i+1)])%n)
-for i in range(3):
-    r.append((l[i]+l[(i+1)]+l[(i+2)])%n)
-for i in range(2):
-    r.append((l[i]+l[(i+1)]+l[(i+2)]+l[(i+3)])%n)
+## Skills
+- 💻 Programming Languages: Python, SQL
+- 🛠️ Tools & Technologies: MS Excel, Mysql
+- 📊 Data Analysis & Visualization: Tableau, Power BI
 
-r.append(sum(l)%n)
+Feel free to explore and provide feedback! 🌟
+
+## Let's Connect!
+I'm always open to collaborations and discussions. Connect with me on LinkedIn or drop me an email. Let's create something awesome together! 🚀
 
 
-print(max(r))
-print(r)
 
